@@ -3,6 +3,6 @@ public class Day1 {
         System.out.println("Hello Git");
         System.out.println("Hello 2. defa guncelleme");
         //commit sonrasi degisiklik yapildi
-git
+
     }
 }
